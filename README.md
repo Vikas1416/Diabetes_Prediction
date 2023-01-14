@@ -1,1 +1,1 @@
-# Stroke_Prediction
+#Diabetes_Prediction
